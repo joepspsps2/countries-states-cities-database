@@ -202,7 +202,7 @@
     "created_at": "2019-10-05T23:31:28",
     "updated_at": "2025-12-02T14:39:31",
     "flag": 1,
-    "wikiDataId": "Q166977"
+    "wikiDataId": "Q706455"
   },
   {
     "id": 109007,
@@ -243,7 +243,7 @@
     "created_at": "2019-10-05T23:31:28",
     "updated_at": "2025-12-02T14:39:31",
     "flag": 1,
-    "wikiDataId": "Q166977"
+    "wikiDataId": "Q707728"
   },
   {
     "id": 109008,
@@ -325,7 +325,7 @@
     "created_at": "2019-10-05T23:31:29",
     "updated_at": "2025-12-02T14:39:31",
     "flag": 1,
-    "wikiDataId": "Q669566"
+    "wikiDataId": "Q710268"
   },
   {
     "id": 109010,
@@ -694,7 +694,7 @@
     "created_at": "2019-10-05T23:31:29",
     "updated_at": "2025-12-02T14:39:31",
     "flag": 1,
-    "wikiDataId": "Q249872"
+    "wikiDataId": "Q712911"
   },
   {
     "id": 109020,
@@ -980,8 +980,7 @@
     },
     "created_at": "2019-10-05T23:31:29",
     "updated_at": "2025-12-02T14:39:31",
-    "flag": 1,
-    "wikiDataId": "Q194989"
+    "flag": 1
   },
   {
     "id": 109027,
@@ -1063,7 +1062,7 @@
     "created_at": "2019-10-05T23:31:29",
     "updated_at": "2025-12-02T14:38:56",
     "flag": 1,
-    "wikiDataId": "Q706544"
+    "wikiDataId": "Q245023"
   },
   {
     "id": 109030,
@@ -1309,7 +1308,7 @@
     "created_at": "2019-10-05T23:31:29",
     "updated_at": "2025-12-02T14:38:56",
     "flag": 1,
-    "wikiDataId": "Q237258"
+    "wikiDataId": "Q713331"
   },
   {
     "id": 109039,
@@ -1350,7 +1349,7 @@
     "created_at": "2019-10-05T23:31:29",
     "updated_at": "2025-12-02T14:39:31",
     "flag": 1,
-    "wikiDataId": "Q237258"
+    "wikiDataId": "Q708690"
   },
   {
     "id": 109040,
@@ -2093,8 +2092,8 @@
     "country_id": 216,
     "country_code": "TW",
     "type": "township",
-    "latitude": "23.26666667",
-    "longitude": "121.18333333",
+    "latitude": "24.66596340",
+    "longitude": "121.65322920",
     "native": "三星鄉",
     "timezone": "Asia/Taipei",
     "wikiDataId": "Q706522"
@@ -2769,8 +2768,8 @@
     "country_id": 216,
     "country_code": "TW",
     "type": "township",
-    "latitude": "24.11560000",
-    "longitude": "120.53500000",
+    "latitude": "23.85110000",
+    "longitude": "120.49866670",
     "native": "溪州鄉",
     "timezone": "Asia/Taipei",
     "wikiDataId": "Q708820"
@@ -3432,8 +3431,8 @@
     "country_id": 216,
     "country_code": "TW",
     "type": "township",
-    "latitude": "24.91666667",
-    "longitude": "121.00000000",
+    "latitude": "24.71666190",
+    "longitude": "121.14126600",
     "native": "橫山鄉",
     "timezone": "Asia/Taipei",
     "wikiDataId": "Q713576"
